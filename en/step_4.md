@@ -1,11 +1,11 @@
-## Run Minecraft
+## Minecraft Pi editionを起動する
 
-To run Minecraft Pi, open it from the desktop menu or type `minecraft-pi` in the terminal.
+Minecraftを起動するには、デスクトップから起動するか、 `minecraft-pi`と検索します。
 
 ![](images/menu.png)
 
-When Minecraft Pi has loaded, click on **Start Game**, followed by **Create new**. You'll notice that the containing window is offset slightly. This means to drag the window around you have to grab the title bar behind the Minecraft window.
-
+↑　起動方法　↑
+Minecraft Pi が起動したら、**Start Game**をクリックし、**Create new**をクリックします。You'll notice that the containing window is offset slightly. This means to drag the window around you have to grab the title bar behind the Minecraft window.
 ![](images/mcpi-game.png)
 
 You are now in a game of Minecraft! Go walk around, hack things, and build things!
