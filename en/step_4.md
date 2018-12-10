@@ -5,6 +5,7 @@ Minecraftを起動するには、デスクトップから起動するか、 `min
 ![](images/menu.png)
 
 ↑　起動方法　↑
+
 Minecraft Pi が起動したら、**Start Game**をクリックし、**Create new**をクリックします。You'll notice that the containing window is offset slightly. This means to drag the window around you have to grab the title bar behind the Minecraft window.
 ![](images/mcpi-game.png)
 
